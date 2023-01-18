@@ -131,6 +131,7 @@ body{
 .links__container{
     max-width: 800px;
     margin: auto;
+    padding: 0 2%;
 }
 
 .links__container .link{
